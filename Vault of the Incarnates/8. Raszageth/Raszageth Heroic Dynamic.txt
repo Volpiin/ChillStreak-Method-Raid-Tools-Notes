@@ -8,8 +8,8 @@
 {tank}|cff00ffffTanks:|r Keep boss centered in room.{/T}{/p}
 
 {p1.5}|cff00ff00INTERMISSION 1 (65%):|r
-{g135}|cff00ffffGroups 1, 3, 5|r |cffFF7000GO BLUE PLATFORM {square}, KILL ADDS.|r{/g}
-{g246}|cff00ffffGroups 2, 4, 6|r |cffFF7000GO RED PLATFORM {cross}, KILL ADDS.|r{/g}
+{g135}|cff00ffffGroups 1, 3, 5|r |cffFF7000GO MOON PLATFORM {moon}, KILL ADDS.|r{/g}
+{g246}|cff00ffffGroups 2, 4, 6|r |cffFF7000GO RED PLATFORM {triangle}, KILL ADDS.|r{/g}
 |cffFF7000STAND NEAR EDGE|r to get knocked over to your platform.
 |cffFF7000FOCUS|r |cffa330c9Ruiners|r, |cffFF7000INTERRUPT|r |cffa330c9Acolytes|r.
 |cffFF7000DODGE|r arial breath attacks from boss, |cffffff00Lightning Devistation|r.{/p}
