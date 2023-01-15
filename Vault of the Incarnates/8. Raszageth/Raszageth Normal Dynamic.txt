@@ -2,7 +2,7 @@
 |cffFF7000BLOODLUST|r {spell:2825} on pull.
 |cffFF7000DODGE|r |cffffff00Lightning Breath|r cone from boss, aims at random player. 
 |cffFF7000SPREAD|r with circles, |cffFF7000INTERRUPT|r or |cffFF7000DISPEL|r the add that spawns.
-|cffFF7000RUN AWAY|r with |cffffff00Static Charge|r debuff.
+|cffFF7000RUN AWAY|r with |cffffff00Static Charge|r debuff onto {star}{circle} and {diamond} World Markers.
 |cffFF7000STAND IN FRONT OF|r |cffffff00Static Field|r on ground |cffffff00Hurricane Wing|r pushback at 100 energy
 {T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after every |cffffff00Electrified Jaws|r.
 {tank}|cff00ffffTanks:|r Keep boss centered in room.{/T}{/p}
