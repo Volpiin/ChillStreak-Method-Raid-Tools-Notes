@@ -22,7 +22,7 @@ HUGE SHOUTOUT to the following resources used as inspiration and research for th
 - [Panthea's Icy Veins guides](https://www.icy-veins.com/wow/raid-guide-eranog-vault-of-the-incarnates)
 - [Ready Check Pull guides](https://www.youtube.com/watch?v=WE4QO3FX0Ug&list=PLhx6nABtx9XMVKGICrjCnGfempm98vX68)
 - [Hazelnutty Games guides](https://www.youtube.com/watch?v=Y4dexVl9alU&list=PLHBcemKOV_HYQiZO1UCKUGcPoqejzoawa)
-- SeaStove original Chuffed-Method-Raid-Tools-Notes
+- [SeaStove original Chuffed-Method-Raid-Tools-Notes](https://github.com/SeaStove/Chuffed-Method-Raid-Tools-Notes)
 - Mikey's raid notes from Chill Streak.
 - [MythicTrap guides](https://www.mythictrap.com/en)
 
