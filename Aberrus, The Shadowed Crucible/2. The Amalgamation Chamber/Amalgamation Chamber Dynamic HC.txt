@@ -1,6 +1,7 @@
-{p1}|cff00ff00PHASE 1:|r
+{p1}|cffFF7000SPLIT THE RAID|r. equally.
+
+|cff00ff00PHASE 1:|r
 {T}{tank}|cffc41e3aHeroic:|r |cffFF7000SEPARATE THE BOSSES|r from each other for at least |cffFF7000 25yd|r.{/T}
-|cffFF7000START ON FIRE BOSS|r and |cffFF7000DPS SWAP WHEN CALLED BY RAID LEADER|r.
 |cffFF7000DAMAGE BOSS EQUALLY|r up to |cffFF700050% HP|r.
 
 |cff00ff00ESSENCE OF SHADOW:|r

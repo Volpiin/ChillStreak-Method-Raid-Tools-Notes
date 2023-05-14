@@ -1,4 +1,4 @@
-|cff00ff00PHASE 1:|r
+{p1}|cff00ff00PHASE 1:|r
 {T}{tank}|cffFF7000STACK|r the bosses together.{/T}
 {dps}|cffFF7000CLEAVE|r the bosses.
 |cffFF7000DAMAGE BOSS EQUALLY|r up to |cffFF700050% HP|r.
@@ -11,11 +11,11 @@
 |cff00ff00ESSENCE OF FIRE:|r
 |cffFF7000SOAK|r |cffffff00Fiery Meteor|r.
 |cffFF7000DODGE|r |cffffff00Swirling Flame|r.
-{tank}|cffFF7000SWAP|r after |cffffff00Flame Slash|r.
+{tank}|cffFF7000SWAP|r after |cffffff00Flame Slash|r.{/p1}
 
-|cff00ff00PHASE 2:|r
+{p2}|cff00ff00PHASE 2:|r
 |cffFF7000SOAK|r |cffffff00Gloom Conflagration|r and then |cffFF7000MOVE OUT|r the aftershock.
 |cffFF7000MOVE OUT|r from |cffffff00Blistering Twilight|r and then |cffFF7000DODGE|r the tornados.
 |cffFF7000DODGE|r |cffffff00Shadowflame Burst|r frontal cone.
 {tank}|cffFF7000SWAP|r after |cffffff00Withering Vulnerability|r.
-|cffFF7000KILL THE BOSS|r as quickly as possible.
+|cffFF7000KILL THE BOSS|r as quickly as possible.{/p2}
