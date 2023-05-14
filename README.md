@@ -23,8 +23,12 @@ HUGE SHOUTOUT to the following resources used as inspiration and research for th
 - [Ready Check Pull guides](https://www.youtube.com/watch?v=WE4QO3FX0Ug&list=PLhx6nABtx9XMVKGICrjCnGfempm98vX68)
 - [Hazelnutty Games guides](https://www.youtube.com/watch?v=Y4dexVl9alU&list=PLHBcemKOV_HYQiZO1UCKUGcPoqejzoawa)
 - SeaStove original Chuffed-Method-Raid-Tools-Notes
+- Mikey's raid notes from Chill Streak.
+- [MythicTrap guides](https://www.mythictrap.com/en)
 
 FAQ:
 
 - Q: I hate these colors
 - A: All the colors used are found in FormattingGuide.txt, if there's any you want to change, you can open the note (or all notes) in your favorite text editor and find-replace those colors.
+- Q: What is Chill Streak?
+- A: Chill Streak is an EU-centric raid/Mythic+ community, focused on helping people progress through the game in chill and friendly enviroment. You can join the discord via this link: [Chill Streak DC Link](https://discord.gg/chillstreak)
