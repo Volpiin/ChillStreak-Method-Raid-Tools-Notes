@@ -1,7 +1,7 @@
 {p1}|cffFF7000SPLIT THE RAID|r. equally.
 
 |cff00ff00PHASE 1:|r
-{T}{tank}|cffc41e3aHeroic:|r |cffFF7000SEPARATE THE BOSSES|r from each other for at least |cffFF7000 25yd|r.{/T}
+{T}{tank}|cffc41e3aHeroic:|r |cffFF7000SEPARATE THE BOSSES|r from each other for at least |cffFF7000 50yd|r.{/T}
 |cffFF7000DAMAGE BOSS EQUALLY|r up to |cffFF700050% HP|r.
 
 |cff00ff00ESSENCE OF SHADOW:|r
@@ -14,7 +14,7 @@
 |cffc41e3aHeroic:|r|cffFF7000SOAK|r |cffffff00Molten Eruption|r.
 |cffFF7000SOAK|r |cffffff00Fiery Meteor|r.
 |cffFF7000DODGE|r |cffffff00Swirling Flame|r.
-{T}{tank}|cffFF7000SWAP|r after |cffffff00Flame Slash|r.{/T}{/p1}
+{T}{tank}|cffFF7000SWAP|r after |cffffff00Flame Slash|r.{/T}{/p}
 
 {p2}|cff00ff00PHASE 2:|r
 |cffc41e3aHeroic:|r |cffFF7000ONE PLAYER EACH SOAK|r |cffffff00Convergent Eruptions|r and then |cffFF7000DODGE|r the orbs.
@@ -22,4 +22,4 @@
 |cffFF7000MOVE OUT|r from |cffffff00Blistering Twilight|r and then |cffFF7000DODGE|r the tornados.
 |cffFF7000DODGE|r |cffffff00Shadowflame Burst|r frontal cone.
 {T}{tank}|cffFF7000SWAP|r after |cffffff00Withering Vulnerability|r.{/T}
-|cffFF7000KILL THE BOSS|r as quickly as possible.{/p2}
+|cffFF7000KILL THE BOSS|r as quickly as possible.{/p}
