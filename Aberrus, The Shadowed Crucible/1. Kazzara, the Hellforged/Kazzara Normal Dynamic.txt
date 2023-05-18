@@ -6,6 +6,5 @@
 |cffFF7000DODGE|r Blood swirlies.
 |cffFF7000DODGE|r |cffffff00Hellbeam|r frontal.
 Position yourself for |cffffff00Wings of Extinction|r |cffFF7000KNOCKBACK|r.
-
 {H}{healer}|cff00ffffHealers:|r |cffffff00Hellbeam|r deals big pulsing damage.{/H}
 {T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on ~2 stacks of |cffffff00Terror Claws|r.{/T}

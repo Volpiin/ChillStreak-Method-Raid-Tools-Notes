@@ -7,6 +7,7 @@
 {H}{healer}|cffFF7000USE HEALING CDs|r in case of high stack clear from tanks.{/H}
 
 |cff00ff00THADRION PHASE:|r
+|cffFF7000BLOODLUST|r {spell:2825}.
 |cffFF7000MASS DISPELL AS LATE AS POSSIBLE|r |cffffff00Unstable Essences|r at the assigned spots.
 {H}{healer}|cffFF7000HEAL THROUGH|r |cffffff00Violent Eruption|r.{/H}
 |cffFF7000DODGE|r swirls.

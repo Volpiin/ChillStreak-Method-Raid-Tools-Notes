@@ -17,5 +17,6 @@
 |cffFF7000INTERRUPT|r |cffffff00Lava Bolts|r.{/p}
 
 {p2}|cff00ff00DOOR PHASE:|r
+|cffFF7000BLOODLUST|r {spell:2825}.
 |cffFF7000SOAK|r the slam pointed towards the door, one group at the time.
 |cffFF7000DODGE|r tank frontal and |cffFF7000SPREAD|r afterwards.{/p}

@@ -1,0 +1,9 @@
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
+{T}{tank}|cffFF7000MOVE BOSS|r towards the edge of the arena on pull.{/T}
+|cffFF7000MOVE OUT|r from flaming traps.
+|cffFF7000CC AND KILL|r golems.
+|cffFF7000LOOT|r the golems and |cffFF7000DEACTIVATE|r traps closer to middle of the arena.
+|cffFF7000DODGE|r the statues frontal wave |cffFF7000THREE TIMES|r.
+|cffFF7000SOAK|r shrapnel bombs with either {tank}|cffFF7000TANKS|r or |cffFF7000IMMUNITIES|r.
+|cffFF7000POSITION|r yourself for |cffffff00Blast Wave|r knockback.
+{T}{tank} |cffFF7000SWAP|r on |cffffff00Searing Claws|r.{/T}
