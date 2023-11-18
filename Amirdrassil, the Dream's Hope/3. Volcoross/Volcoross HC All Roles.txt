@@ -23,3 +23,10 @@
 {tank}|cffFF7000TANK SWAP|r at 8 to 9 stacks of |cffffff00Infused Strikes|r.
 {tank}|cffFF7000APPROACH OTHER TANK|r to clear your stacks.
 {healer}|cffFF7000USE HEALING CDs|r in case of high stack clear from tanks.
+
+!!! |cffFF7000BLOODLUST|r {spell:2825} on pull!!!
+!!! |cffFF7000SPLIT THE RAID|r 50/50!!!
+
+|cffFF7000SOAK|r |cffffff00Flood of the Firelands|r.
+|cffFF7000SPREAD and DEFENSIVE CD|r on |cffffff00Coiling Flames|r.
+|cffFF7000DODGE|r the tail shadow from |cffffff00Scorchtail Crash|r.
