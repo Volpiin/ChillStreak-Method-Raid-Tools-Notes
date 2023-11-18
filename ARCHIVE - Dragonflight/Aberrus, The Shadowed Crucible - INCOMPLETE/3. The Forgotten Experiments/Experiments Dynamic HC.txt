@@ -1,0 +1,25 @@
+|cff00ff00NELDRIS PHASE:|r
+|cffFF7000MOVE OUT|r if marked. |cffFF7000DON'T STAND IN|r the path of the boss.
+|cffFF7000DODGE|r the frontal cone.
+|cffFF7000MOVE OUT|r from |cffffff00Bellowing Roar|r.
+{T}{tank}|cffFF7000TANK SWAP|r at 8 to 9 stacks of |cffffff00Infused Strikes|r.{/T}
+{T}{tank}|cffFF7000APPROACH OTHER TANK|r to clear your stacks.{/T}
+{H}{healer}|cffFF7000USE HEALING CDs|r in case of high stack clear from tanks.{/H}
+
+|cff00ff00THADRION PHASE:|r
+|cffFF7000BLOODLUST|r {spell:2825}.
+|cffc41e3aHeroic:|r|cffFF7000MASS DISPELL AS LATE AS POSSIBLE|r |cffffff00Unstable Essence|r at the assigned spots.
+|cffc41e3aHeroic:|r Kill the adds spawned from Dispells.
+{H}{healer}|cffFF7000HEAL THROUGH|r |cffffff00Violent Eruption|r.{/H}
+|cffFF7000DODGE|r swirls.
+{T}{tank}|cffFF7000TANK SWAP|r at 8 to 9 stacks of |cffffff00Infused Strikes|r.{/T}
+{T}{tank}|cffFF7000APPROACH OTHER TANK|r to clear your stacks.{/T}
+{H}{healer}|cffFF7000USE HEALING CDs|r in case of high stack clear from tanks.{/H}
+
+|cff00ff00RIONTHUS PHASE:|r
+|cffFF7000BUMP|r the orb away from the boss.
+|cffFF7000MOVE OUT|r from |cffffff00Disintegrate|r.
+|cffFF7000DODGE TWICE|r incoming |cffffff00Deep Breaths|r.
+{T}{tank}|cffFF7000TANK SWAP|r at 8 to 9 stacks of |cffffff00Infused Strikes|r.{/T}
+{T}{tank}|cffFF7000APPROACH OTHER TANK|r to clear your stacks.{/T}
+{H}{healer}|cffFF7000USE HEALING CDs|r in case of high stack clear from tanks.{/H}

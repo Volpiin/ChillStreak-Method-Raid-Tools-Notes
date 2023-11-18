@@ -1,0 +1,22 @@
+{p1}|cffFF7000SPLIT THE RAID|r into two groups.
+
+|cff00ff00PLATFORM PHASE - GENERAL:|r
+|cffFF7000MOVE OUT|r from big swirly. |cffFF7000DODGE|r smaller ones.
+|cffFF7000DODGE|r the frontal cone and falling rocks.
+|cffFF7000PICK UP|r the rocks and |cffFF7000THROW THEM|r at marked areas.
+|cffFF7000BURST DOWN THE SHIELD|r of |cffa330c9Magma Mystics|r.
+|cffFF7000DODGE|r the red swirly.
+
+|cff00ff00PLATFORM PHASE - ADDS:|r
+{H}{healer}|cffFF7000HEAL THROUGH|r |cffa330c9Magma Mystics|r raid-wide damage.{/H}
+|cffFF7000DODGE|r the |cffa330c9Flamebound Huntsmans|r |cffffff00Blazing Spears|r.
+|cffc41e3aHeroic:|r |cffFF7000DODGE|r beam from |cffa330c9Obsidian Guards|r.
+|cffFF7000DAMAGE/TAG/TAUNT|r |cffa330c9Zaqali Wallclimbers|r.
+{H}{healer}|cffFF7000HEAL THROUGH|r |cffa330c9Obsidian Guards|r roar.{/H}
+|cffFF7000HEAL AND DISPEL|r the DOTs from |cffa330c9Magma Mystics|r.
+|cffFF7000INTERRUPT|r |cffffff00Lava Bolts|r.{/p}
+
+{p2}|cff00ff00DOOR PHASE:|r
+|cffFF7000BLOODLUST|r {spell:2825}.
+|cffFF7000SOAK|r the slam pointed towards the door, one group at the time.
+|cffFF7000DODGE|r tank frontal and |cffFF7000SPREAD|r afterwards.{/p}

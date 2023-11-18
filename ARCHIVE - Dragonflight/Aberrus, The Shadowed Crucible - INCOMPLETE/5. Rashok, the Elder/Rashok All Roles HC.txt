@@ -1,0 +1,14 @@
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
+|cffFF7000MOVE OUT|r with |cffffff00Searing Slam|r. |cffFF7000MAKE SURE|r that lava pools |cffffff00DO NOT CLIP WITH EACH OTHER|r.
+|cffc41e3aHeroic:|r |cffFF7000DODGE|r the waves.
+|cffFF7000WHOLE RAID SOAK|r the smash.
+|cffFF7000SOAK|r |cffFF7000Doom Flames|r, one person per soak.
+|cffFF7000DODGE|r the big purple frontal.
+{tank}|cffFF7000SWAP|r on every |cffffff00Flaming Slash|r.
+{tank}|cffFF7000SWAP|r on every |cffffff00Earthen Crush|r.
+{tank}|cffFF7000MOVE THE BOSS|r to the centre before |cffffff00100 ENERGY|r.
+
+|cff00ff00INTERMISSION:|r
+New Objective: |cffFF7000SURVIVE|r
+|cffFF7000STACK|r for AOE healing.
+

@@ -1,0 +1,13 @@
+|cffc41e3aHeroic: |r|cffFF7000DODGE|r |cffffff00Flaming Pestilence|r swirlies. 
+|cffc41e3aHeroic: |r|cffFF7000DROP|r |cffffff00Controlled Burn|r on inactive |cffffff00Lashers|r and |cffFF7000KILL|r them.
+|cffFF7000SPREAD|r on |cffffff00Controlled Burn|r and |cffFF7000MOVE AWAY|r from the raid group if not assigned to activate lashers.
+{healer}|cffFF7000HEAL THROUGH|r |cffffff00Tortured Scream|r.
+|cffFF7000DODGE|r |cffffff00Shadowflame Cleave|r cone.
+{tank}|cffFF7000MITIGATE AND SWAP|r at X stacks of |cffffff00Dreadfire Barrage|r
+
+
+INTERMISSION:
+
+|cffc41e3aHeroic: |r|cffFF7000SOAK|r |cffffff00Ember-Charred|r and |cffFF7000BURN|r down Roots.
+|cffFF7000DON'T WALK|r under Gnarlroot.
+!!! |cffFF7000BLOODLUST|r {spell:2825} and |cffFF7000POP OFF|r after burning down Roots!!!

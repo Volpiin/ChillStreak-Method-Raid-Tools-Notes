@@ -1,0 +1,10 @@
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
+|cffFF7000MOVE OUT|r with flamy circles.
+|cffFF7000MOVE OUT|r with |cffffff00Magma Puddles|r and |cffFF7000SOAK|r them. 
+|cffc41e3aHeroic:|r |cffFF7000DO NOT SOAK|r with too many stacks of |cffffff00Searing Heat|r.
+|cffFF7000SOAK|r the |cffffff00Igniting Roar|r circles.
+|cffFF7000POSITION YOURSELF|r for knockback.
+|cffFF7000DODGE|r the frontal.
+{T}{tank}|cffFF7000MOVE THE BOSS|r away from |cffffff00Magma Puddles|r.
+{tank}|cffFF7000SWAP AT 2 STACKS|r of |cffffff00Incinerating Maws|r.{/T}
+|cffFF7000KILL DA BOSS|r before he reaches |cffffff00100 ENERGY|r.
