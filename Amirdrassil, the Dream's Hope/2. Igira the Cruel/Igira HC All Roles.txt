@@ -1,25 +1,11 @@
-|cffFF7000SPLIT THE RAID|r. equally into |cffFF7000TWO HALVES|r.
+!!! |cffFF7000BLOODLUST|r {spell:2825} on pull!!!
+!!! |cffFF7000SPLIT|r {spell:2825} the raid into three soaking groups!!!
+BASELINE:
+|cffFF7000SPREAD|r near melee and |cffFF7000KILL|r |cffffff00Blistering Spear|r.
+|cffFF7000DODGE|r |cffffff00Twisting Blade|r.
+Selected Group |cffFF7000SOAKS|r one of the Igira weapons.
+{tank}|cffFF7000STAY STACKED|r for |cffffff00Vicious Swing|r.
 
-|cff00ff00PHASE 1:|r
-{tank}|cffc41e3aHeroic:|r |cffFF7000SEPARATE THE BOSSES|r from each other for at least |cffFF7000 50yd|r.
-|cffFF7000DAMAGE BOSS EQUALLY|r up to |cffFF700050% HP|r.
-
-|cff00ff00ESSENCE OF SHADOW:|r
-|cffc41e3aHeroic:|r|cffFF7000DODGE|r purple orbs.
-|cffFF7000MOVE AWAY|r from |cffffff00Coalescing Void|r.
-|cffFF7000MOVE OUT|r from |cffffff00Umbral Detonation|r.
-{tank}|cffFF7000SWAP|r after |cffffff00Shadow Spike|r.
-
-|cff00ff00ESSENCE OF FIRE:|r
-|cffc41e3aHeroic:|r|cffFF7000SOAK|r |cffffff00Molten Eruption|r.
-|cffFF7000SOAK|r |cffffff00Fiery Meteor|r.
-|cffFF7000DODGE|r |cffffff00Swirling Flame|r.
-{tank}|cffFF7000SWAP|r after |cffffff00Flame Slash|r.
-
-|cff00ff00PHASE 2:|r
-|cffc41e3aHeroic:|r |cffFF7000ONE PLAYER EACH SOAK|r |cffffff00Convergent Eruptions|r and then |cffFF7000DODGE|r the orbs.
-|cffFF7000SOAK|r |cffffff00Gloom Conflagration|r and then |cffFF7000MOVE OUT|r the aftershock.
-|cffFF7000MOVE OUT|r from |cffffff00Blistering Twilight|r and then |cffFF7000DODGE|r the tornados.
-|cffFF7000DODGE|r |cffffff00Shadowflame Burst|r frontal cone.
-{tank}|cffFF7000SWAP|r after |cffffff00Withering Vulnerability|r.
-|cffFF7000KILL THE BOSS|r as quickly as possible.
+AXE: |cffFF7000SOAK|r |cffffff00Umbral Destruction|r.
+SWORD: |cffFF7000DODGE|r |cffffff00Smashing Viscera|r.
+DAGGER: |cffFF7000SPREAD|r on |cffffff00Heart Stopper|r. {healer}|cffFF7000HEAL THROUGH|r affected players.
