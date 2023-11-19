@@ -1,4 +1,4 @@
-|cffFF7000SPLIT THE RAID|r into two groups.
+!!!|cffFF7000DAMAGE EVENLY|r!!!
 
 |cff00ff00PLATFORM PHASE - GENERAL:|r
 |cffFF7000MOVE OUT|r from big swirly. |cffFF7000DODGE|r smaller ones.
@@ -20,3 +20,8 @@
 |cffFF7000BLOODLUST|r {spell:2825}.
 |cffFF7000SOAK|r the slam pointed towards the door, one group at the time.
 |cffFF7000DODGE|r tank frontal and |cffFF7000SPREAD|r afterwards.
+
+
+|cff00ff00DUCKS:|r
+|cffFF7000BE ADORABLE|r and |cffFF7000MENTALLY SUPPORT|r non-duck raiders.
+|cffFF7000SPAM|r |cffa330c9Quack|r until your "1" button falls of your |cffa330c9Keyboard|r.

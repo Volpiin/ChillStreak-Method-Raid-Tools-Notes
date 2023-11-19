@@ -5,9 +5,7 @@
 |cffFF7000DODGE|r |cffffff00Shadowflame Cleave|r cone.
 {tank}|cffFF7000MITIGATE AND SWAP|r at X stacks of |cffffff00Dreadfire Barrage|r
 
-
 INTERMISSION:
-
 |cffc41e3aHeroic: |r|cffFF7000SOAK|r |cffffff00Ember-Charred|r and |cffFF7000BURN|r down Roots.
 |cffFF7000DON'T WALK|r under Gnarlroot.
 !!! |cffFF7000BLOODLUST|r {spell:2825} and |cffFF7000POP OFF|r after burning down Roots!!!

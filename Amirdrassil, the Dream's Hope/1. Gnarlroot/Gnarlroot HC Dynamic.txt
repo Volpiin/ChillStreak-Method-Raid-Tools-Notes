@@ -1,13 +1,3 @@
-|cffFF7000BLOODLUST|r {spell:2825} on pull.
-|cffFF7000MOVE AWAY|r from |cffffff00Hellsteel Carnage|r swirlies at |cffFF700080%, 60% and 40%|r.
-|cffFF7000DROP|r |cffffff00Dread Rifts|r away from the raid group.
-|cffc41e3aHeroic: |r|cffFF7000KITE|r |cffffff00Rays of Anguish|r towards |cffffff00Dread Rifts|r pools.
-|cffFF7000DODGE|r Blood swirlies.
-|cffFF7000DODGE|r |cffffff00Hellbeam|r frontal.
-Position yourself for |cffffff00Wings of Extinction|r |cffFF7000KNOCKBACK|r.
-{H}{healer}|cff00ffffHealers:|r |cffffff00Hellbeam|r deals big pulsing damage.{/H}
-{T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on ~2 stacks of |cffffff00Terror Claws|r.{/T}
-
 |cffc41e3aHeroic: |r|cffFF7000DODGE|r |cffffff00Flaming Pestilence|r swirlies. 
 |cffc41e3aHeroic: |r|cffFF7000DROP|r |cffffff00Controlled Burn|r on inactive |cffffff00Lashers|r and |cffFF7000KILL|r them.
 |cffFF7000SPREAD|r on |cffffff00Controlled Burn|r and |cffFF7000MOVE AWAY|r from the raid group if not assigned to activate lashers.
